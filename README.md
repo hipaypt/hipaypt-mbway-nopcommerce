@@ -1,6 +1,6 @@
 # nopCommerce MBWAY
 
-Módulo de pagamentos para NopCommerce, que permite o pagamento por Multibanco, utilizando os serviços da Hipay CompraFácil para fornecer a ligação dos pagamentos ao seu banco.
+Módulo de pagamentos para NopCommerce, que permite o pagamento por MB WAY, utilizando os serviços da Hipay CompraFácil.
 
 Link para compra ou download de Trial:
 
